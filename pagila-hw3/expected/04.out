@@ -1,0 +1,37 @@
+ first_name | last_name 
+------------+-----------
+ KIRSTEN    | AKROYD
+ AUDREY     | BAILEY
+ SCARLETT   | BENING
+ KEVIN      | BLOOM
+ FRED       | COSTNER
+ EMILY      | DEE
+ NICK       | DEGENERES
+ CHARLIZE   | DENCH
+ MERYL      | GIBSON
+ ADAM       | GRANT
+ MEG        | HAWKE
+ MAE        | HOFFMAN
+ GENE       | HOPKINS
+ NATALIE    | HOPKINS
+ MENA       | HOPPER
+ KIRK       | JOVOVICH
+ MARY       | KEITEL
+ MATTHEW    | LEIGH
+ ED         | MANSFIELD
+ BETTE      | NICHOLSON
+ AUDREY     | OLIVIER
+ OLYMPIA    | PFEIFFER
+ RUSSELL    | TEMPLE
+ THORA      | TEMPLE
+ DAN        | TORN
+ RENEE      | TRACY
+ NICK       | WAHLBERG
+ ALEC       | WAYNE
+ GROUCHO    | WILLIAMS
+ MORGAN     | WILLIAMS
+ BEN        | WILLIS
+ HUMPHREY   | WILLIS
+ CAMERON    | WRAY
+(33 rows)
+

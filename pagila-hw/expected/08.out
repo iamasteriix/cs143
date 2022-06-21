@@ -1,0 +1,5 @@
+ first_name | last_name |    street_address    
+------------+-----------+----------------------
+ Mike       | Hillyer   | 23 Workhaven Lane
+ Jon        | Stephens  | 1411 Lillydale Drive
+(2 rows)

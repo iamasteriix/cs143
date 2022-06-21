@@ -1,0 +1,5 @@
+ first_name | last_name |   sum   
+------------+-----------+---------
+ Jon        | Stephens  | 2202.60
+ Mike       | Hillyer   | 2621.83
+(2 rows)
